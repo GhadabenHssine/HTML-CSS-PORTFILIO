@@ -1,0 +1,105 @@
+
+
+li{
+    display: inline;
+    margin-right: 15%;
+    list-style: none;
+  
+    
+}
+a{
+    text-decoration: none;
+    color:#e4ab0f;
+    font-weight: bold;
+    
+}
+a:hover{
+    color:white
+}
+
+body{
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+;
+background-color: rgb(202, 195, 195);
+color: white;
+background-color: black;
+}
+.image{
+    border-radius: 50%;
+    width: 300px;
+    margin-left:30%;
+   margin-right: 30%;
+
+}
+.image+figcaption{
+    color:#e4ab0f;
+    margin-left:30%;
+    margin-right: 30%;
+}
+.desc{
+   
+    text-align: center;
+}
+article{
+    
+    text-align: center;
+}
+.stack{
+    color:#e4ab0f
+}
+form>input{
+    border-radius: 5px;
+    border:2px double white;
+    color: #e4ab0f;
+    background-color: white;
+   
+    margin-left:30%;
+    margin-right: 30%;
+    
+}
+.vidio{
+    width: 250px;
+    margin-left: 10%;
+
+
+}
+
+.about{
+    color: #e4ab0f;  
+}
+.dev{
+    color: #e4ab0f;
+}
+.paragraphe{
+    width: 500px;
+ text-align: justify;  
+  display: block;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.block-about{
+    text-align: center;
+}
+.btn{
+    border-radius: 8%;
+    padding: 10px;
+    color: #e4ab0f;
+    border: none;
+    background-color: white;
+    margin-bottom: 200px;
+}
+#work{
+    text-align: center;
+    height: 100vh;
+    width: 100%;
+   
+}
+#resume{
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#contact{
+    margin-top: 100px;
+    display: inline;
+}
